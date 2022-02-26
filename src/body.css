@@ -1,0 +1,76 @@
+
+/* ----------------- Header -----------------s */
+.mainHeader {
+    background-color: white;
+    margin-top: -1.5%;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-left: 35px;
+    padding-bottom: 0px;
+
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height:25px;
+    color: black;
+}
+
+.name {
+    font-weight: 600;
+    font-size: 27px;
+}
+
+
+.occupation {
+    font-weight: 600;
+    font-size: 18px;
+
+}
+.contactinfo {
+    font-weight: 300;
+    font-size: 18px;
+
+}
+
+
+/* ----------------- Formats -----------------s */
+
+.titleHeader {
+    font-weight: 600;
+    font-size: 22px;
+    color: #021466;
+}
+
+.titleDescription {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    padding-left: 10px;
+}
+
+.subtitleDescription {
+    font-weight: 420;
+    font-size: 14px;
+    
+}
+
+.dateDescription {
+    font-weight: 350;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.bulletedDescription {
+    font-weight: 445;
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
+.hrClassName{
+    background-color: #7B46E3;
+    margin-top: -0.5px;
+}
+
