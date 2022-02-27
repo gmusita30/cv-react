@@ -15,7 +15,7 @@ class Licenses extends React.Component {
 
                         <tr>
                             <td><img src={Udemy} alt='udemy' width='48' height='48' /></td>  &nbsp;
-                            <td className='titleDescription'>DevOps, CI/CD (Continuous Integration/Delivery for Beginners)
+                            <td className='titleDescription'>Udemy - DevOps, CI/CD (Continuous Integration/Delivery for Beginners)
                             <br />
                             <span className='dateDescription'>February 2022</span>
                             </td>                    
@@ -24,7 +24,7 @@ class Licenses extends React.Component {
                         <br/>
                         <tr>
                             <td><img src={Udemy} alt='udemy' width='48' height='48' /></td>  &nbsp;
-                            <td className='titleDescription'>Project Management Fundamentals
+                            <td className='titleDescription'>Udemy - Project Management Fundamentals
                             <br />
                             <span className='dateDescription'>February 2022</span>
                             </td>                

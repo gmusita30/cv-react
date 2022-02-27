@@ -26,7 +26,7 @@ class CharacterReferences extends React.Component {
                         <br />
                         <tr>
                             <td><img src={Acn} alt='telus' width='45' height='62' /></td>  &nbsp;
-                            <td className='titleDescription'>Anjo Gloriane
+                            <td className='titleDescription'>Mr. Anjo Gloriane
                             <br />
                             <span className='subtitleDescription'>Accenture Inc., Tech Solution Planning Manager/Solution Architect</span>
                             </td>               
