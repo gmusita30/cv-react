@@ -42,6 +42,8 @@
     font-weight: 600;
     font-size: 22px;
     color: #021466;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 .titleDescription {
@@ -49,11 +51,15 @@
     font-size: 16px;
     line-height: 20px;
     padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 .subtitleDescription {
     font-weight: 420;
     font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
     
 }
 
@@ -61,16 +67,16 @@
     font-weight: 350;
     font-size: 14px;
     font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 .bulletedDescription {
     font-weight: 445;
     font-size: 14px;
     padding-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
-.hrClassName{
-    background-color: #7B46E3;
-    margin-top: -0.5px;
-}
 

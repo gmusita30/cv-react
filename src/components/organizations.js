@@ -19,7 +19,7 @@ class Organizations extends React.Component {
                                 <br/>
                                 <span className='subtitleDescription'>Executive Assosiate</span>
                                 <br/>
-                                <span className='dateDescription'>2018-2029</span>
+                                <span className='dateDescription'>2018-2019</span>
                             </td>
                             
                         </tr>
@@ -32,7 +32,7 @@ class Organizations extends React.Component {
                                 <br/>
                                 <span className='subtitleDescription'>Science, Technology, Engineering and Mathematics Strand (STEM)</span>
                                 <br/>
-                                <span className='dateDescription'>2016-2018</span>
+                                <span className='dateDescription'>2019-2020</span>
                             </td>
                             
                         </tr>
