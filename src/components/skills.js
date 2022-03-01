@@ -25,7 +25,8 @@ class Skills extends React.Component {
                             <td className='titleDescription'>Tools and Technologies 
                             <br />
                                 <ul className='bulletedDescription'>
-                                    <li>Git, Microsoft Office</li>
+                                    <li>Microsoft Office</li>
+                                    <li>Basic Knowledge in Git</li>
                                     <li>Basic Knowledge in MySQL, Firebase, Cloud Firestore</li>
                                     <li>Basic Knowledge in Windows Server 2012 and Ubuntu</li>
                                     <li>Basic Knowledge in Cisco Packet Tracer</li>
