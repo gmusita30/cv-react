@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cv-react/static/css/main.39712b0c.css",
+    "main.css": "/cv-react/static/css/main.3574f794.css",
     "main.js": "/cv-react/static/js/main.60cbbeed.js",
     "static/media/cnag.png": "/cv-react/static/media/cnag.3f3d87239a3efc29551c.png",
     "static/media/ustlogo.jpg": "/cv-react/static/media/ustlogo.4185adc0b97658f2743b.jpg",
@@ -11,11 +11,11 @@
     "static/media/facebook.png": "/cv-react/static/media/facebook.795fce8e464693d7346d.png",
     "static/media/linkedIn.png": "/cv-react/static/media/linkedIn.f249b38224ca41a0b909.png",
     "index.html": "/cv-react/index.html",
-    "main.39712b0c.css.map": "/cv-react/static/css/main.39712b0c.css.map",
+    "main.3574f794.css.map": "/cv-react/static/css/main.3574f794.css.map",
     "main.60cbbeed.js.map": "/cv-react/static/js/main.60cbbeed.js.map"
   },
   "entrypoints": [
-    "static/css/main.39712b0c.css",
+    "static/css/main.3574f794.css",
     "static/js/main.60cbbeed.js"
   ]
 }
